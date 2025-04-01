@@ -1,5 +1,0 @@
-@import "tailwindcss";
-
-.Invertimg{
-    filter: invert(0.33);
-}
