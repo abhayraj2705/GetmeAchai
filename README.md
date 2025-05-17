@@ -39,7 +39,7 @@
 ### 📄Payment Page   
 ![Add Message](public/Screenshot%202025-04-01%20234429.png)
 
-### 🧾 Supporter Note View  
+### 🧾 Dashboard   
 ![Supporter Note](public/Screenshot%202025-04-01%20234448.png)
 
 ### 📊 Login Page 
