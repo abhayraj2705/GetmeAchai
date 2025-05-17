@@ -29,8 +29,24 @@
 ---
 
 ## 📷 Screenshots
-public/Screenshot 2025-04-01 234400.png
 
+### 🔐 Sign In Page  
+![Sign In](public/Screenshot%202025-04-01%20234400.png)
+
+### 🎉 Donation Success Page  
+![Donation Success](public/Screenshot%202025-04-01%20234414.png)
+
+### 📄 Add Message Interface  
+![Add Message](public/Screenshot%202025-04-01%20234429.png)
+
+### 🧾 Supporter Note View  
+![Supporter Note](public/Screenshot%202025-04-01%20234448.png)
+
+### 📊 Dashboard Overview  
+![Dashboard](public/Screenshot%202025-04-01%20234502.png)
+
+### ⚙️ Admin/Settings Page  
+![Admin Settings](public/Screenshot%202025-04-01%20234522.png)
 
 ---
 
