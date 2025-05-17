@@ -30,7 +30,7 @@
 
 ## 📷 Screenshots
 
-### 🔐 Sign In Page  
+### 🔐 Home Page  
 ![Sign In](public/Screenshot%202025-04-01%20234400.png)
 
 ### 🎉 Donation Success Page  
